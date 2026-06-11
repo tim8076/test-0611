@@ -30,7 +30,7 @@
       </div>
     </div>
     <div class="row mb-4 mb-md-10">
-      <div class="col-md-4">
+      <div class="col-md-4 mb-4 mb-md-0">
         <div class="card">
           <div class="card-body">
             <h5 class="card-title">總帳號數</h5>
@@ -38,7 +38,7 @@
           </div>
         </div>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-4 mb-4 mb-md-0">
         <div class="card">
           <div class="card-body">
             <h5 class="card-title">啟用中</h5>
@@ -46,7 +46,7 @@
           </div>
         </div>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-4 mb-4 mb-md-0">
         <div class="card">
           <div class="card-body">
             <h5 class="card-title">已停用</h5>
