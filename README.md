@@ -6,12 +6,23 @@ Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://
 
 ## Project Setup
 
+安裝專案
+
 ```sh
 npm install
 ```
 
 ### Compile and Hot-Reload for Development
 
+運行專案
+
 ```sh
 npm run dev
 ```
+
+## 完成功能
+
+1. 新增帳號
+2. 編輯帳號
+3. 刪除帳號
+4. 搜尋帳號
